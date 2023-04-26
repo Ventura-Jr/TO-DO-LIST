@@ -10,8 +10,8 @@ body {
 #app {
     background-color: #fff;
     padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
     width: 400px;
     display: flex;
     flex-direction: column;
@@ -23,13 +23,13 @@ body {
     margin-bottom: 15px;
 }
 
-h1 {
+h1{
     text-align: center;
 }
 
 #taskList {
     list-style: none;
-    padding: 0px;
+    padding: 0;
 }
 
 .taskItem {
@@ -40,7 +40,39 @@ h1 {
     cursor: pointer;
 }
 
-.taskItem.completed {
+.taskItem.completed{
     text-decoration: line-through;
     color: #888;
+}
+
+.taskItem.important {
+    background-color: #FFE066;
+}
+
+.taskItem.urgent {
+    background-color: #FF8C8C;
+}
+
+.removeButton {
+    margin-left: 10px;
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.editButton {
+    margin-left: 5px;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: rgb(7, 7, 7);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.editButton:hover {
+    background-color: #3e8e41;
 }
