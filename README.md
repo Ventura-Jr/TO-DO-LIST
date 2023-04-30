@@ -4,7 +4,7 @@ To-Do Lists são listas de todas as tarefas que você precisa realizar, ou seja,
 ![image](https://user-images.githubusercontent.com/122493018/235329602-e9914451-cbb8-4a84-b8f2-37f1e4fbbd23.png)
 
 # Desenvolvimento
-O Simon foi desenvolvido utilizando as seguintes tecnologias:
+O To Do List foi desenvolvido utilizando as seguintes tecnologias:
 <div>
 <img align="center" alt="Ventura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Ventura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
