@@ -11,5 +11,5 @@ O To Do List foi desenvolvido utilizando as seguintes tecnologias:
 <img align="center" alt="Ventura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-# autor
+# Autor
 A To Do List foi desenvolvido por [Ventura Jr], aluno do Bootcamp da IBRF<>Tech em parceria com a Gama Academy, seguindo as aulas online do professor Claudio Raposo.
