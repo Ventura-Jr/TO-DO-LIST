@@ -12,4 +12,7 @@ O To Do List foi desenvolvido utilizando as seguintes tecnologias:
 </div>
 
 # Autor
-A To Do List foi desenvolvido por [Ventura Jr], aluno do Bootcamp da IBRF<>Tech em parceria com a Gama Academy, seguindo as aulas online do professor Claudio Raposo.
+A To Do List foi desenvolvida por [Ventura Jr], aluno do Bootcamp da IBRF<>Tech em parceria com a Gama Academy, seguindo as aulas online do professor Claudio Raposo.
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eng.venturajr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventura-jr/)
